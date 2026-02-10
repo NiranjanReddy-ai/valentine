@@ -15,7 +15,6 @@ const HomePage = ({ onYes }: HomePageProps) => {
 
   const noTexts = [
     "No",
-    "This is your Niru",
     "Are you sure?",
     "Really sure?",
     "Think again!,This is your Niru",
